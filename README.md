@@ -37,4 +37,5 @@ All examples are based on intentionally vulnerable labs.
 ---
 
 ## 👤 Author
-Ghassan Al-Mansouri
+Ali Almansori
+علي المنصوري
